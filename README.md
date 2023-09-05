@@ -1,4 +1,4 @@
-## YUNA!🥳
+## YUNA 😎
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kn9012)](https://solved.ac/kn9012/)
 <!--
