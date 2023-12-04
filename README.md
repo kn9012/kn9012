@@ -5,7 +5,7 @@
     </a>
   
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=kn9012)](https://github.com/bi-sz/velog-readme-stats)
+ api?name=kn9012)](https://github.com/kn9012/velog-readme-stats)
 </div><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kn9012&show_icons=true&theme=radical)
