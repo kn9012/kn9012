@@ -2,7 +2,7 @@
     
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=yuna&color=046E46&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
   
-    ✏️ Study
+    <p>✏️ Study<p>
 
 
 
