@@ -1,14 +1,10 @@
 <div align="center">
     
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=yuna&color=046E46&fontColor=ffffff&animation=fadeIn&fontAlignY=55)
-  
-    <p>✏️ Study<p>
+  ![header](https://capsule-render.vercel.app/api?type=Wave&text=yuna&color=046E46&fontColor=079E65&animation=fadeIn&fontAlignY=55)
 
+🌿 Study
 
-
-    
-    <br/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kn9012&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kn9012&show_icons=true&theme=shadow_green)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kn9012)](https://solved.ac/kn9012/)
 </div>
 
