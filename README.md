@@ -14,7 +14,7 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kn9012)
 
-<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+<img src="https://velog.io/@kn9012?https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </div>
 
 
