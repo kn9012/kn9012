@@ -3,9 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&text=yuna&color=046E46&fontColor=079E65&animation=fadeIn&fontAlignY=55)
 
 
-
 #### 🌿 GitHub Stats
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kn9012&show_icons=true&theme=shadow_green)
 
