@@ -2,6 +2,7 @@
     
 ![header](https://capsule-render.vercel.app/api?type=Wave&text=yuna&color=046E46&fontColor=079E65&animation=fadeIn&fontAlignY=55)
 
+
 <br/>
 
 <a href="https://velog.io/@kn9012"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
