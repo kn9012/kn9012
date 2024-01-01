@@ -14,7 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kn9012&show_icons=true&theme=shadow_green)
 
 
-#### 🥇 Baekjoon solved rank
+#### 🥇 Baekjoon
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kn9012)
 
