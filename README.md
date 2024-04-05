@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=yuna!&color=88B883&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Yuna!&color=88B883&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&height=250)
 
 ### 🌍 Tech Stack
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
