@@ -38,7 +38,8 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
   <br>
   
-  <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kn9012&show_icons=true&theme=shadow_green)
+  <br><br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kn9012&show_icons=true&theme=shadow_green)
 
 
 </div>
