@@ -1,4 +1,7 @@
 ### Yuna!🖐🌻
+
+---
+
 - I'm dreaming of becoming a **Backend Developer**.🔥
 
 - I'm currently learning _**Spring Boot**_, _**JPA**_ 🚀
