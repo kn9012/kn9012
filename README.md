@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/kn9012/Traveen">Traveen</a></td>
-    <td>공공데이터를 활용한 촬영지 기반 여행 계획 및 여행지 정보 공유 서비스 (2023)</td>
+    <td>공공데이터를 활용한 촬영지 기반 여행 계획 서비스 (2023)</td>
     <td>Java, Spring Boot, MyBatis, MySQL, Vue.js, Javascript</td>
   </tr>
 </table>
