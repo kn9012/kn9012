@@ -3,12 +3,21 @@
 - I'm dreaming of becoming a **Backend Developer**.🔥
 - I'm currently learning _**Spring Boot**_, _**JPA**_ 🚀
 - And I love listening to **music** and watching **baseball games**.😍
+<br>
 
+#### Experience
+💻 삼성 청년 SW 아카데미(SSAFY) 10기 (2023.07~2024.06)
+<br>
+
+💻 NHN Academy 광주 1기 (2022.08~2022.12)
+<br>
+
+🎓 조선대학교 전자공학부 지능IoT전공 (~2023.08)
 
 <br>
 
 #### Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
 
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
@@ -28,10 +37,10 @@
   <tr>
     <td><a href="https://github.com/kn9012/DDIB">DDIB</a></td>
     <td>타임딜 이벤트 플랫폼 대여 서비스 (2024)</td>
-    <td>Java, Spring Boot, JPA, MySQL, Spring Security, Redis</td>
+    <td>Java, Spring Boot, Spring Data JPA, Spring Cloud Netflix Eureka, Spring Cloud Gateway, Spring Security, OAuth2, MySQL, Redis</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/kn9012/Epilogue">E:pilogue</a></td>
+    <td><a href="https://github.com/kn9012/Epilogue">Epilogue</a></td>
     <td>블록체인 기반 디지털 유언 생성 및 디지털 추모관 서비스 (2024)</td>
     <td>Java, Spring Boot, JPA, MySQL, Spring Security, Redis, Jenkins, Docker, Amazon S3</td>
   </tr>
