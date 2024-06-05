@@ -42,12 +42,12 @@
   </tr>
   <tr>
     <td><a href="https://github.com/kn9012/Epilogue">Epilogue</a></td>
-    <td>블록체인 기반 디지털 유언 생성 및 디지털 추모관 서비스 (2024)</td>
+    <td>블록체인 유언 생성 및 디지털 추모관 서비스 (2024)</td>
     <td>Java, Spring Boot, JPA, MySQL, Spring Security, Redis, Jenkins, Docker, Amazon S3</td>
   </tr>
   <tr>
     <td><a href="https://github.com/kn9012/Malitell">Malitell</a></td>
-    <td>전문가 1:1 비대면 상담 및 메타버스 자조모임 심리 상담 서비스 (2024)</td>
+    <td>비대면 전문가 상담 및 메타버스 자조모임 서비스 (2024)</td>
     <td>Java, Spring Boot, JPA, MySQL, Spring Security, Redis, Stomp</td>
   </tr>
   <tr>
