@@ -32,28 +32,23 @@
 <table style="text-align: center;">
   <tr>
     <th>프로젝트</th>
-    <th>소개</th>
-    <th>사용 기술</th>
+    <th>기간</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/kn9012/DDIB">DDIB</a></td>
-    <td>타임딜 이벤트 플랫폼 대여 서비스 (2024)</td>
-    <td>Java, Spring Boot, Spring Data JPA, Spring Cloud Netflix Eureka, Spring Cloud Gateway, Spring Security, OAuth2, MySQL, Redis</td>
+    <td>타임딜 이벤트 플랫폼 대여 서비스, <a href="https://github.com/kn9012/DDIB">DDIB</a>🖐🏻</td>
+    <td>2024.04-2024.05</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/kn9012/Epilogue">Epilogue</a></td>
-    <td>블록체인 유언 생성 및 디지털 추모관 서비스 (2024)</td>
-    <td>Java, Spring Boot, JPA, MySQL, Spring Security, Redis, Jenkins, Docker, Amazon S3</td>
+    <td>블록체인 유언 생성 및 디지털 추모관 서비스, <a href="https://github.com/kn9012/Epilogue">Epilogue</a>📃</td>
+    <td>2024.02-2024.04</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/kn9012/Malitell">Malitell</a></td>
-    <td>비대면 전문가 상담 및 메타버스 자조모임 서비스 (2024)</td>
-    <td>Java, Spring Boot, JPA, MySQL, Spring Security, Redis, Stomp</td>
+    <td>비대면 전문가 상담 및 메타버스 자조모임 서비스, <a href="https://github.com/kn9012/Malitell">Malitell</a>📺</td>
+    <td>2024.01-2024.02</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/kn9012/Traveen">Traveen</a></td>
-    <td>공공데이터를 활용한 촬영지 기반 여행 계획 서비스 (2023)</td>
-    <td>Java, Spring Boot, MyBatis, MySQL, Vue.js, Javascript</td>
+    <td>공공데이터를 활용한 촬영지 기반 여행 계획 서비스, <a href="https://github.com/kn9012/Traveen">Traveen</a>🎥</td>
+    <td>2023.10-2023.11</td>
   </tr>
 </table>
 
