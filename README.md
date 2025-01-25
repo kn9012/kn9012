@@ -28,8 +28,8 @@
 
 <table style="text-align: center;">
   <tr>
-    <th>링크</th>
     <th>프로젝트</th>
+    <th>설명</th>
     <th>기간</th>
   </tr>
   <tr>
