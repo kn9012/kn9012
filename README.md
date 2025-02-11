@@ -5,7 +5,8 @@
 - And I love listening to **music** and watching **baseball games**.😍
 <br>
 
-#### Experience
+#### experience
+
 💻 삼성 청년 SW 아카데미(SSAFY) 10기 (2023.07~2024.06)
 <br>
 
@@ -17,7 +18,8 @@
 
 <br>
 
-#### Tech Stack
+#### Tech
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=gltlab&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white">
@@ -27,11 +29,6 @@
 #### Project
 
 <table style="text-align: center;">
-  <tr>
-    <th>프로젝트</th>
-    <th>설명</th>
-    <th>기간</th>
-  </tr>
   <tr>
     <td><a href="https://github.com/kn9012/DDIB">DDIB</a></td>
     <td>타임딜 이벤트 플랫폼 대여 서비스</td>
